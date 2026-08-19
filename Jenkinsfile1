@@ -1,3 +1,5 @@
+@Library('shared-pipeline') _ 
+
 // /vars/nodeJSEKSPipeline
 def inputs = [
      project: 'roboshop',
